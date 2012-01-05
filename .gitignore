@@ -1,1 +1,5 @@
+## For more about syntax for ignoring files
+## http://book.git-scm.com/4_ignoring_files.html
+#ignore DS_Store files
 .DS_Store
+Thumbs.db
